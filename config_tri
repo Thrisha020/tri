@@ -1,0 +1,2 @@
+# Renamed from 'config' to avoid Box upload conflict
+$(cat config)
